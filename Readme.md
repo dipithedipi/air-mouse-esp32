@@ -3,7 +3,7 @@
 This project uses an ESP32 to create a wireless air mouse. \
 The ESP32 reads gyroscope data and translates it into mouse movements and clicks.
 
-## Demo
+## Demo (avaible if you download the project)
 Gyroscope attached to finger:
 
 <video width="320" height="240" controls>
